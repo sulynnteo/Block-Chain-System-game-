@@ -1,8 +1,8 @@
-# Assignment 3
+# Assignment personal
 
 ## Requirements
 
-This assignment requires Python 3.10 or higher.
+This personal assignment requires Python 3.10 or higher.
 
 ```bash
  pip3 install -r requirements.txt
